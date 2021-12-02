@@ -26,8 +26,7 @@ public class Calcpage {
 	 public static void launchBrowser() {
 	 
 	 try {
-		
-		 System.setProperty("webdriver.chrome.driver","/Users/yashbatra/Downloads/chromedriver");
+		 System.setProperty("webdriver.chrome.driver","chromedriver");
 		 driver= new ChromeDriver();
 		 driver.manage().window().maximize();
 		 htmlReporter = new ExtentHtmlReporter("extent.html");
@@ -41,7 +40,6 @@ public class Calcpage {
 		driver.get("https://testsheepnz.github.io/BasicCalculator.html");	
 
 	     } 
-		
 		catch (Exception e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();

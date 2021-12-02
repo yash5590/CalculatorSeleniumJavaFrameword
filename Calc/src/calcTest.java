@@ -8,8 +8,7 @@ import org.testng.annotations.Test;
 import methods.Calcpage;
 
 public class calcTest{
- 
-    	
+     	
 			@BeforeTest
 			public void launchBrowserTest() throws IOException {
 				
@@ -21,7 +20,6 @@ public class calcTest{
           		Calcpage.selectDropdownBuild();
 			 
 			}
-		
 			@Test(priority=2)
 			public void selectNumerTest() {
           		Calcpage.selectFirstNo();
