@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import methods.Calcpage;
 
 public class calcTest{
-     	
+     	//TestNG
 			@BeforeTest
 			public void launchBrowserTest() throws IOException {
 				

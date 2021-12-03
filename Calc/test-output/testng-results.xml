@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-02T15:17:36 IST" name="Default suite" finished-at="2021-12-02T15:17:45 IST" duration-ms="9079">
+  <suite started-at="2021-12-03T11:57:34 IST" name="Default suite" finished-at="2021-12-03T11:57:43 IST" duration-ms="8296">
     <groups>
     </groups>
-    <test started-at="2021-12-02T15:17:36 IST" name="Default test" finished-at="2021-12-02T15:17:45 IST" duration-ms="9079">
+    <test started-at="2021-12-03T11:57:34 IST" name="Default test" finished-at="2021-12-03T11:57:43 IST" duration-ms="8296">
       <class name="calcTest">
-        <test-method is-config="true" signature="launchBrowserTest()[pri:0, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:36 IST" name="launchBrowserTest" finished-at="2021-12-02T15:17:44 IST" duration-ms="7352" status="PASS">
+        <test-method is-config="true" signature="launchBrowserTest()[pri:0, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:34 IST" name="launchBrowserTest" finished-at="2021-12-03T11:57:40 IST" duration-ms="5884" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowserTest -->
-        <test-method signature="selectBuildTest()[pri:1, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:44 IST" name="selectBuildTest" finished-at="2021-12-02T15:17:44 IST" duration-ms="304" status="PASS">
+        <test-method signature="selectBuildTest()[pri:1, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:40 IST" name="selectBuildTest" finished-at="2021-12-03T11:57:41 IST" duration-ms="336" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectBuildTest -->
-        <test-method signature="selectNumerTest()[pri:2, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:44 IST" name="selectNumerTest" finished-at="2021-12-02T15:17:44 IST" duration-ms="243" status="PASS">
+        <test-method signature="selectNumerTest()[pri:2, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:41 IST" name="selectNumerTest" finished-at="2021-12-03T11:57:41 IST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectNumerTest -->
-        <test-method signature="selectOperastionTest()[pri:3, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:44 IST" name="selectOperastionTest" finished-at="2021-12-02T15:17:44 IST" duration-ms="289" status="PASS">
+        <test-method signature="selectOperastionTest()[pri:3, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:41 IST" name="selectOperastionTest" finished-at="2021-12-03T11:57:41 IST" duration-ms="267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectOperastionTest -->
-        <test-method signature="selectAnuswerTest()[pri:5, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:44 IST" name="selectAnuswerTest" finished-at="2021-12-02T15:17:44 IST" duration-ms="59" status="PASS">
+        <test-method signature="selectAnuswerTest()[pri:5, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:41 IST" name="selectAnuswerTest" finished-at="2021-12-03T11:57:41 IST" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectAnuswerTest -->
-        <test-method signature="selectIntegertextBoxAndClearButtonTest()[pri:6, instance:calcTest@6d3a388c]" started-at="2021-12-02T15:17:44 IST" name="selectIntegertextBoxAndClearButtonTest" finished-at="2021-12-02T15:17:45 IST" duration-ms="767" status="PASS">
+        <test-method signature="selectIntegertextBoxAndClearButtonTest()[pri:6, instance:calcTest@6d3a388c]" started-at="2021-12-03T11:57:41 IST" name="selectIntegertextBoxAndClearButtonTest" finished-at="2021-12-03T11:57:43 IST" duration-ms="1472" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectIntegertextBoxAndClearButtonTest -->
